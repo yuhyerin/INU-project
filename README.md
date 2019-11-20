@@ -1,2 +1,1 @@
-# INU project
- 
+# TeamBooster

@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 362a078f51e574a2486a1234c2fa2ca6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 27 1f floor
+    100002: 27 2f flloor
+    100004: 27 3f floor
+    100006: 27 4f floor
+    100008: 27 B1f floor
+    100010: //RootNode
+    100012: 28 1 floor
+    100014: 28 2 floor
+    100016: 28 3 floor
+    100018: 28 4 floor
+    100020: 28 5 floor
+    100022: 28 6 floor
+    100024: 28 6f roof
+    100026: 4f roof
+    100028: B1 roof
+    400000: 27 1f floor
+    400002: 27 2f flloor
+    400004: 27 3f floor
+    400006: 27 4f floor
+    400008: 27 B1f floor
+    400010: //RootNode
+    400012: 28 1 floor
+    400014: 28 2 floor
+    400016: 28 3 floor
+    400018: 28 4 floor
+    400020: 28 5 floor
+    400022: 28 6 floor
+    400024: 28 6f roof
+    400026: 4f roof
+    400028: B1 roof
+    2100000: No Name
+    2300000: 27 1f floor
+    2300002: 27 2f flloor
+    2300004: 27 3f floor
+    2300006: 27 4f floor
+    2300008: 27 B1f floor
+    2300010: 28 1 floor
+    2300012: 28 2 floor
+    2300014: 28 3 floor
+    2300016: 28 4 floor
+    2300018: 28 5 floor
+    2300020: 28 6 floor
+    2300022: 28 6f roof
+    2300024: 4f roof
+    2300026: B1 roof
+    3300000: 27 1f floor
+    3300002: 27 2f flloor
+    3300004: 27 3f floor
+    3300006: 27 4f floor
+    3300008: 27 B1f floor
+    3300010: 28 1 floor
+    3300012: 28 2 floor
+    3300014: 28 3 floor
+    3300016: 28 4 floor
+    3300018: 28 5 floor
+    3300020: 28 6 floor
+    3300022: 28 6f roof
+    3300024: 4f roof
+    3300026: B1 roof
+    4300000: 28 6 floor
+    4300002: 28 5 floor
+    4300004: 28 4 floor
+    4300006: 28 3 floor
+    4300008: 28 2 floor
+    4300010: 28 1 floor
+    4300012: 27 3f floor
+    4300014: 27 4f floor
+    4300016: 27 1f floor
+    4300018: 27 B1f floor
+    4300020: 27 2f flloor
+    4300022: 4f roof
+    4300024: B1 roof
+    4300026: 28 6f roof
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
